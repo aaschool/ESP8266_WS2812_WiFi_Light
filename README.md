@@ -53,7 +53,7 @@ In the Arduino IDE, press the upload button to upload the code to the device.
 
 Connect the ESP8266 and WS2812 components as shown in the diagram below:
 
-![ESP8266 Wifi Lantern Schematic](ESP8266_Wifi_Lantern_Schematic.png)
+![ESP8266 WS2812 WiFi Light Schematic](ESP8266_WS2812_WiFi_Light_Schematic.png)
 
 Connect to the WiFi SSID you have chosen in the code and input the chosen password.
 
